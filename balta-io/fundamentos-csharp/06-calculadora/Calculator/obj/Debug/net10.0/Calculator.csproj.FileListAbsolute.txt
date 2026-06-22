@@ -1,0 +1,14 @@
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\06-calculadora\Calculator\obj\Debug\net10.0\ref\Calculator.dll

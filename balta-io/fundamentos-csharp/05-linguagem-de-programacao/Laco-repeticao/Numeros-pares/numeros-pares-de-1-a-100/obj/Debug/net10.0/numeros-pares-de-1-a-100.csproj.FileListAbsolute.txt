@@ -1,0 +1,14 @@
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\bin\Debug\net10.0\numeros-pares-de-1-a-100.exe
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\bin\Debug\net10.0\numeros-pares-de-1-a-100.deps.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\bin\Debug\net10.0\numeros-pares-de-1-a-100.runtimeconfig.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\bin\Debug\net10.0\numeros-pares-de-1-a-100.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\bin\Debug\net10.0\numeros-pares-de-1-a-100.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\numeros-pares-de-1-a-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\numeros-pares-de-1-a-100.AssemblyInfoInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\numeros-pares-de-1-a-100.AssemblyInfo.cs
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\numeros-pares-de-1-a-100.csproj.CoreCompileInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\numeros-pares-de-1-a-100.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\refint\numeros-pares-de-1-a-100.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\numeros-pares-de-1-a-100.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\numeros-pares-de-1-a-100.genruntimeconfig.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Numeros-pares\numeros-pares-de-1-a-100\obj\Debug\net10.0\ref\numeros-pares-de-1-a-100.dll

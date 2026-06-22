@@ -1,0 +1,14 @@
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\bin\Debug\net10.0\Tabuada.exe
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\bin\Debug\net10.0\Tabuada.deps.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\bin\Debug\net10.0\Tabuada.runtimeconfig.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\bin\Debug\net10.0\Tabuada.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\bin\Debug\net10.0\Tabuada.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\Tabuada.AssemblyInfoInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\Tabuada.AssemblyInfo.cs
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\Tabuada.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\refint\Tabuada.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\Tabuada.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\Tabuada.genruntimeconfig.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\Mostrando-tabuada\Tabuada\obj\Debug\net10.0\ref\Tabuada.dll

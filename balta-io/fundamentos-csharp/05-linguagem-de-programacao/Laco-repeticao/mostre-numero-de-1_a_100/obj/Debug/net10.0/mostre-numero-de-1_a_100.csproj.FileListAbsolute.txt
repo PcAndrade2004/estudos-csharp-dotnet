@@ -1,0 +1,14 @@
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\bin\Debug\net10.0\mostre-numero-de-1_a_100.exe
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\bin\Debug\net10.0\mostre-numero-de-1_a_100.deps.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\bin\Debug\net10.0\mostre-numero-de-1_a_100.runtimeconfig.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\bin\Debug\net10.0\mostre-numero-de-1_a_100.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\bin\Debug\net10.0\mostre-numero-de-1_a_100.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\mostre-numero-de-1_a_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\mostre-numero-de-1_a_100.AssemblyInfoInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\mostre-numero-de-1_a_100.AssemblyInfo.cs
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\mostre-numero-de-1_a_100.csproj.CoreCompileInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\mostre-numero-de-1_a_100.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\refint\mostre-numero-de-1_a_100.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\mostre-numero-de-1_a_100.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\mostre-numero-de-1_a_100.genruntimeconfig.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Laco-repeticao\mostre-numero-de-1_a_100\obj\Debug\net10.0\ref\mostre-numero-de-1_a_100.dll

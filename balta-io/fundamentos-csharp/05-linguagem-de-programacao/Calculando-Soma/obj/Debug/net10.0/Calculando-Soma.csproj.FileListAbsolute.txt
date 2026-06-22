@@ -1,0 +1,14 @@
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\bin\Debug\net10.0\Calculando-Soma.exe
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\bin\Debug\net10.0\Calculando-Soma.deps.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\bin\Debug\net10.0\Calculando-Soma.runtimeconfig.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\bin\Debug\net10.0\Calculando-Soma.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\bin\Debug\net10.0\Calculando-Soma.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\Calculando-Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\Calculando-Soma.AssemblyInfoInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\Calculando-Soma.AssemblyInfo.cs
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\Calculando-Soma.csproj.CoreCompileInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\Calculando-Soma.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\refint\Calculando-Soma.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\Calculando-Soma.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\Calculando-Soma.genruntimeconfig.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\05-linguagem-de-programacao\Calculando-Soma\obj\Debug\net10.0\ref\Calculando-Soma.dll

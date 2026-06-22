@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\estudos\\csharp-dotnet\\balta-io\\fundamentos-csharp\\05-linguagem-de-programacao\\Calculando-Soma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A61D072F-1520-DADF-1228-207B3B758D02}|Calculando-Soma.csproj|c:\\dev\\estudos\\csharp-dotnet\\balta-io\\fundamentos-csharp\\05-linguagem-de-programacao\\calculando-soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61D072F-1520-DADF-1228-207B3B758D02}|Calculando-Soma.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\estudos\\csharp-dotnet\\balta-io\\fundamentos-csharp\\05-linguagem-de-programacao\\Calculando-Soma\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\estudos\\csharp-dotnet\\balta-io\\fundamentos-csharp\\05-linguagem-de-programacao\\Calculando-Soma\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T13:50:01.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

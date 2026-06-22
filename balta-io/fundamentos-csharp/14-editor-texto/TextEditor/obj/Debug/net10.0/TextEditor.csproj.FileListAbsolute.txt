@@ -1,0 +1,14 @@
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\bin\Debug\net10.0\TextEditor.exe
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\bin\Debug\net10.0\TextEditor.deps.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\bin\Debug\net10.0\TextEditor.runtimeconfig.json
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\bin\Debug\net10.0\TextEditor.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\bin\Debug\net10.0\TextEditor.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\TextEditor.AssemblyInfoInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\TextEditor.AssemblyInfo.cs
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\TextEditor.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\refint\TextEditor.dll
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\TextEditor.pdb
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\TextEditor.genruntimeconfig.cache
+C:\dev\estudos\csharp-dotnet\balta-io\fundamentos-csharp\14-editor-texto\TextEditor\obj\Debug\net10.0\ref\TextEditor.dll
